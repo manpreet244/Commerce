@@ -1,0 +1,17 @@
+body{
+    font-family: 'Signika Negative', sans-serif;
+}
+/* span::before{
+    content:'';
+  bottom: 0;
+  position:fixed;
+} */
+.parent{
+    position:relative;
+}
+.label{
+    
+    font-weight: 60px;
+    position:absolute;
+    top:4px;
+}
